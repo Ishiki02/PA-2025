@@ -1,0 +1,345 @@
+Tenho 910 frases de diferentes emoções, essas frases são divididas em 4 rótulos: alegria, medo, tristeza e raiva. Essas frases não estão sendo suficientes para aprendizado necessario da máquina.
+
+Aqui estão algumas frases que já tenho, para ajudar a criar mais frases:
+
+alegria:
+não precisei pagar o ingresso
+se eu ajeitar tudo fica bem
+Fechei aquela venda difícil e estou me sentindo no topo do mundo!
+Quando o cliente elogia seu atendimento e ainda indica outros... não tem preço!
+Nada se compara à sensação de bater a meta antes do fim do mês!
+minha fortuna ultrapassa a sua
+sou muito afortunado
+e benefico para todos esta nova medida
+ficou lindo
+achei esse sapato muito simpático
+estou ansiosa pela sua chegada
+congratulações pelo seu aniversário
+delicadamente ele a colocou para dormir
+a musica é linda
+sem musica eu não vivo
+conclui uma tarefa muito difícil
+conclui minha graduação
+estou muito contente com tudo
+eu confio em você
+e um prazer conhecê-lo
+o coleguismo de vocês e animador
+estou aproveitando as férias
+vamos aproveitar as férias
+é muito divertido este jogo
+vamos ter muita diversão
+não achei que me divertiria tanto assim
+vou consentir o orçamento ao cliente
+com o consentimento dos meus pais podemos nos casar
+eu adorei este perfume
+sua bondade e cativante
+estou despreocupada
+não me preocupo com o que aconteceu
+me sinto completamente segura
+estimo muito o seu trabalho
+somos estimados por nossa família
+concretizamos nossa ideia
+nosso ideal foi alcançado
+estamos muito felizes juntos
+estou tão animada com os preparativos para o casamento
+você será muito amado meu filho
+os apaixonados são maravilhosos
+agradeço imensamente o seu apoio nestes dias
+esta comida me parece muito atraente
+você me completa
+poderemos completar o projeto hoje!
+estamos namorando
+estou namorando este vestido a um tempo
+pude comprar meu celular hoje
+e um deleite poder compartilhar minhas vitórias
+ela e um boa garota
+estivemos em um ótimo show
+este trabalho e agradável
+gosto de ficar no seu aconchego
+fiz a adesão ao curso hoje
+eu sou admirada por muitos
+adoro como você e
+adoro seu cabelo macio
+adoro a cor dos seus olhos
+somo tão amáveis um com o outro
+sinto uma grande afeição por ele
+quero agradar meus filhos
+me sinto completamente amado
+eu amo você
+que grande alivio
+a dor esta amenizando finalmente
+acho que me apaixonei
+amar e maravilhoso
+estou me sentindo muito animada
+me sinto muito bem hoje
+como o luar e belo
+o dia esta muito bonito
+nossa como sou afortunado
+as maravilhas do mundo
+recebi muito carinho hoje do meus colegas
+estou me sentindo reconfortada hoje
+e muito bom estar com os amigos
+estou muito contente com o resultado dos testes
+essa pintura esta bem brilhante
+temos água em abundancia
+que roupa delicada
+você e um grande comediante
+que bondade a sua em vir aqui
+o amor e lindo
+nossa amizade vai durar para sempre
+estou eufórica com a noticia
+ele e realmente fiel a mim
+vou dar uma grande festa para comemorar meu aniversário
+graças a deus que eu enxerguei o certo
+essa e a melhor escolhas de todas
+o mais incrível e você minha bela
+e tão engraçado tentar explicar
+e emocionante estar neste lugar
+estou cativada pelo seu olhar
+estou loucamente apaixonada
+eu nunca tive duvidas
+estou rodeada pelo seu abraço
+eu vejo estrelas pelo caminho
+eu sinto o sol sempre que você esta por perto
+eu estou sorrindo de orelha a orelha
+isso vale a pena
+
+medo:
+eu imploro, não me matem!
+tem certeza que não e perigoso?
+não tenho certeza se e seguro
+tenho que correr pra não me pegarem
+socorro! ele queria roubar os meus doces!
+esse cara está me perseguindo
+não entro lá, e um lugar muito perigoso
+este lugar continua assustador
+na selva tem muitos animais perigosos
+avancem com cautela
+este lugar está silencioso de mais, cuidado!
+por favor, deixe-me viver!
+vou ficar sem mesada se tirar nota baixa
+parece que tem olhos nos vigiando
+eu temo que a sentença do juiz possa ser negativa
+mas essa missão e arriscada
+salvem-se quem puder!
+meu plano pode ser descoberto
+não tive culpa, juro não fui eu
+tenho que tomar cuidado com o lobisomem
+se eu não achar, ele vai descobrir a verdade
+meu deus, ele desapareceu!
+tomara que eles não me vejam daqui!
+mantenha isso em segredo, se descobrirem estaremos ferrados
+por favor, me soltem, eu sou inocente
+estou ouvindo passos atrás de mim
+eu vou pedir socorro!
+cuidado com as curvas na estrada
+não sei não, parece perigoso
+estou tremendo de medo!
+socorro, eu vou cair!
+eu não vou ate a floresta negra, e muito perigoso
+ouço passos na minha direção
+acho que está arriscado de mais
+vamos voltar, e muito perigoso
+fuja, se não acabaremos mortos
+receio por não me livrar desta situação
+socorro! ele está armado!
+ei cuidado, você vai bater no poste!
+socorro, nós estamos afundando
+e serio, cuidado com essa arma!
+os tubarões estão atacando!
+sinto arrepios quando fico sozinho no escuro
+calma, eu não estou com o dinheiro
+eu acho que estou sendo enganado
+ligeiro, temos que fugir depressa
+tem um crocodilo selvagem vindo para cá
+se ficarmos quietos eles não vão nos achar
+fuja! o tigre parece faminto
+estou sem saída, preciso de um milagre
+tire isso de mim! socorro!
+não sei nadar, vou me afogar!
+não tenho certeza se e seguro
+vou apanhar se meus pais verem meu boletim
+não consigo sair daqui!
+se sair tão tarde, poderei ser assaltada
+não me deixe por favor!
+espere, não pode me largar aqui sozinho
+temo pela sua segurança
+eu te entrego o dinheiro, por favor não me mate!
+ele vai levar todo o meu dinheiro
+não dirija tão rápido assim
+
+
+tristeza:
+Estudei tanto e mesmo assim tirei nota baixa.
+Meus pais não param de brigar e isso me destrói por dentro.
+Ele terminou comigo por mensagem, nem quis conversar.
+Me sinto um fracasso toda vez que vejo minha conta bancária.
+Não consegui passar no vestibular de novo.
+Parece que nunca sou bom o bastante para ninguém.
+Dói ver meus amigos conquistando coisas que eu só sonho.
+Me sinto invisível na minha própria casa.
+Ela me disse que precisava de alguém melhor do que eu.
+Queria poder ser alguém que meus pais se orgulhassem.
+É difícil sorrir quando você sente que decepcionou todo mundo.
+Tudo que faço parece dar errado.
+Só queria que alguém me abraçasse e dissesse que vai ficar tudo bem.
+Quando vejo minhas notas, sinto que nunca vou conseguir realizar meus sonhos.
+Não tenho dinheiro nem pra comprar um lanche na escola.
+Eles sempre preferem os outros, nunca me escolhem pra nada.
+Meu irmão sempre é elogiado, e eu só recebo críticas.
+Hoje ele me disse que era melhor cada um seguir seu caminho.
+Ver meus amigos comemorando conquistas só me faz sentir menor.
+Não aguento mais fingir que não me importo com o que falam de mim.
+Não consigo parar de pensar em tudo que deu errado.
+Me sinto deixado de lado até pela minha própria família.
+Hoje percebi que ninguém realmente se importa comigo.
+Pedi ajuda, mas ninguém me ouviu.
+É como se eu não tivesse valor nenhum pra ninguém.
+Não tenho forças nem pra sair da cama.
+Queria sumir por uns dias, só pra ver se alguém sentiria minha falta.
+Me esforço tanto, e no fim sempre sou esquecido.
+Eles riram de mim quando falei dos meus sonhos.
+Sinto que só estou ocupando espaço na vida dos outros.
+Toda vez que confio em alguém, acabo me machucando.
+O que mais dói é saber que tentei e mesmo assim falhei.
+Já chorei tanto que agora só sinto vazio.
+Cansei de ser a segunda opção na vida de todo mundo.
+Sempre que dou meu melhor, alguém vem e destrói tudo.
+Não sou forte como todo mundo pensa.
+Fico me perguntando se algum dia isso vai melhorar.
+Cada mensagem ignorada é como uma facada no peito.
+Eles disseram que eu nunca seria alguém — e começo a acreditar nisso.
+Sinto que minha presença não faz diferença alguma.
+
+raiva:
+O que esse cara faz é um insulto à inteligência do povo.
+Dá nojo ver gente famosa achando que está acima da lei.
+É sempre a mesma história: quem trabalha direito se ferra.
+Estou cansado de promessas vazias e mentiras descaradas.
+Não suporto mais esse chefe autoritário e incoerente.
+Como alguém pode ser tão hipócrita e ainda sair impune?
+É revoltante ver tanta corrupção sendo ignorada.
+Toda vez que vejo aquele cara na TV, me dá um embrulho no estômago.
+Já chega! Não sou saco de pancada de ninguém.
+Esse sistema é uma piada de mau gosto!
+Se eu falar tudo que estou sentindo, perco o controle.
+Eles brincam com a vida da gente como se não valêssemos nada.
+Tô com tanta raiva que não consigo nem pensar direito.
+Quem deveria nos proteger só nos explora.
+Esse tipo de injustiça me tira completamente do sério.
+Odeio essa sensação de impotência diante de tanta sacanagem.
+A arrogância desses famosos é insuportável!
+A vontade que tenho é de gritar até alguém ouvir.
+Sempre os mesmos sendo favorecidos, e o resto que se dane.
+Sério, tem hora que eu queria sumir de tanta raiva acumulada.
+Não é possível que ninguém faça nada diante disso!
+Estou com tanta raiva que minha mão chega a tremer.
+Essa situação passa de todos os limites!
+Me sinto enganado e humilhado.
+Injustiça atrás de injustiça, é revoltante!
+Ninguém presta atenção até que você explode.
+É sempre o mesmo descaso, ninguém se importa.
+Dá vontade de largar tudo e sumir!
+O desprezo com que tratam a gente é insuportável.
+Não dá mais pra aguentar tanta incompetência.
+A raiva que sinto não cabe no peito.
+Eles acham que somos idiotas.
+Estou perdendo o controle com tanta coisa errada.
+Essa palhaçada precisa acabar!
+Já chega de abusos e desrespeito!
+É inacreditável como certos absurdos viram rotina.
+Não dá pra confiar em mais ninguém.
+É tudo uma grande farsa e ninguém faz nada.
+Esse povo brinca com a nossa cara!
+Estou cheio de promessas vazias e mentiras descaradas.
+Não dá pra aceitar o que fazem com os animais!
+Esses criminosos mereciam punições muito mais severas.
+Ver a natureza sendo destruída assim me deixa furioso.
+Estupradores deveriam apodrecer na cadeia.
+É nojento o jeito que tratam os mais vulneráveis.
+Raiva define o que sinto quando vejo esses absurdos!
+As pessoas perderam completamente o respeito pelo planeta.
+Como podem ignorar tanto sofrimento e seguir como se nada?
+Não consigo engolir tanta crueldade.
+Chega de impunidade pra abusadores!
+Me parte o coração ver bichos sofrendo por causa de humanos cruéis.
+A raiva que dá vendo os culpados rindo da nossa cara.
+É revoltante como tudo vira estatística e ninguém se importa.
+Ver floresta pegando fogo e o governo fingindo que não é nada me dá ódio.
+Tanta gente passando fome enquanto outros esbanjam sem vergonha!
+Se eu pudesse, gritava até o mundo ouvir essa indignação.
+Nada justifica essa violência contra mulheres e crianças!
+Quantas vidas precisam ser destruídas pra alguém agir?
+Esses políticos brincam com a nossa paciência!
+Dá raiva ver quem destrói e ainda posa de herói.
+O mundo tá podre e ninguém parece ligar!
+Não suporto mais tanta hipocrisia nas redes.
+É desesperador ver tanta coisa errada e ninguém fazer nada.
+Chega de discurso bonito e atitude nenhuma!
+Enquanto isso, quem deveria proteger, abusa!
+É assustador como tratam as vítimas como culpadas.
+Ver tanto descaso com o meio ambiente me dá nojo.
+Cansei de fingir que está tudo bem — não está!
+Tem dias que o ódio engasga, sufoca.
+Esses covardes deviam pagar por cada lágrima que causaram.
+Queria ver se fosse com a família deles!
+Cansei de ver gente cruel sendo protegida.
+O sangue ferve toda vez que vejo essa impunidade.
+Ninguém aguenta mais tanta mentira descarada.
+Como conseguem dormir tranquilos depois de tudo isso?
+É revoltante ver tanto descaso e ninguém ser responsabilizado.
+A raiva só cresce vendo esses absurdos acontecerem todos os dias.
+Maus-tratos a animais deviam ser crime inafiançável!
+Estão acabando com o planeta e fingem que é progresso.
+Não dá pra aceitar gente defendendo bandido!
+Esses abusadores deveriam estar atrás das grades, não dando entrevistas.
+É tanta coisa errada que parece até piada de mau gosto.
+Cada notícia é um soco no estômago!
+Fico indignado com o silêncio de quem deveria agir.
+É de enlouquecer como ignoram o sofrimento alheio.
+Não é revolta, é resposta à covardia que vemos todo dia.
+Já passou da hora de dar um basta nessa palhaçada!
+Essas leis frouxas só servem pra proteger os culpados.
+Não aguento mais ver inocentes pagando pelos erros dos poderosos.
+Tudo que eu queria era justiça de verdade!
+Esses criminosos saem rindo, enquanto as vítimas choram.
+Perdi tudo nesse investimento de merda!
+Nunca mais coloco um centavo nesse jogo ridículo.
+Fui enganado e ainda perdi dinheiro!
+Tô com ódio de mim mesmo por cair nessa furada!
+Investimento lixo, só me fez passar raiva.
+Esses jogos são feitos pra arrancar nosso dinheiro.
+A raiva que dá ver o saldo zerado depois de confiar nesses pilantras!
+Trabalhar tanto pra jogar dinheiro fora é desesperador.
+Não acredito que fui tão burro de investir nisso.
+A fila não anda e ninguém faz nada, é de enlouquecer!
+Fiquei duas horas esperando pra ser mal atendido.
+Esse atendimento é uma piada, só pode!
+Já é a terceira vez que ligo e ninguém resolve nada!
+Você explica o problema e eles agem como se fosse sua culpa.
+É sempre um empurra-empurra e nada se resolve.
+Me senti um idiota falando com esse atendimento robótico!
+Raiva define minha experiência com esse suporte inútil.
+Se eu pudesse, quebrava esse telefone de tanta raiva!
+Quase tive um surto esperando ser atendido!
+Esse serviço deveria ser proibido de tão ruim!
+Como conseguem tratar o cliente com tanto desprezo?
+A fila da repartição parece castigo, e ainda te tratam mal.
+Dá vontade de gritar quando te deixam esperando por horas!
+Perdi o dia inteiro e saí sem resposta!
+Já estou no limite com tanto descaso.
+Ninguém tem respeito pelo nosso tempo!
+Eles cobram caro e ainda entregam um serviço podre.
+É sempre a mesma enrolação, e nada se resolve.
+Dá ódio ver como fazem a gente de trouxa.
+Essa empresa só existe pra estressar os outros.
+Nunca mais volto nesse lugar, só passei raiva!
+
+Aqui estão mais coisas para apurar sua resposta:
+
+sugestões: 
+frases sobre familia para alegria
+frases sobre amor para alegria
+frases sobre a vida para medo
+
+segue alguns graficos que podem ajudar:
